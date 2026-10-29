@@ -1,0 +1,192 @@
+CHAVES DAS IMAGENS (arquivo = chave + .jpg, dentro da pasta img/)
+
+Use apenas imagens de dominio publico, licenca livre (Wikimedia Commons, Agencia Brasil CC BY) ou fotos suas. Confira licenca e credito de cada uma.
+
+arendt.jpg
+   Retrato: Hannah Arendt
+foucault.jpg
+   Retrato: Michel Foucault
+adorno.jpg
+   Retrato: Theodor W. Adorno
+horkheimer.jpg
+   Retrato: Max Horkheimer
+marcuse.jpg
+   Retrato: Herbert Marcuse
+habermas.jpg
+   Retrato: Jürgen Habermas
+bentham.jpg
+   Retrato: Jeremy Bentham
+rawls.jpg
+   Retrato: John Rawls
+levinas.jpg
+   Retrato: Emmanuel Levinas
+agamben.jpg
+   Retrato: Giorgio Agamben
+mbembe.jpg
+   Retrato: Achille Mbembe
+quijano.jpg
+   Retrato: Aníbal Quijano
+boaventura.jpg
+   Retrato: Boaventura de Sousa Santos
+honneth.jpg
+   Retrato: Axel Honneth
+fraser.jpg
+   Retrato: Nancy Fraser
+crenshaw.jpg
+   Retrato: Kimberlé Crenshaw
+gonzalez.jpg
+   Retrato: Lélia Gonzalez
+freire.jpg
+   Retrato: Paulo Freire
+mouffe.jpg
+   Retrato: Chantal Mouffe
+ranciere.jpg
+   Retrato: Jacques Rancière
+livro_dialetica.jpg
+   Capa: Dialética do Esclarecimento
+livro_unidim.jpg
+   Capa: O Homem Unidimensional
+livro_origens.jpg
+   Capa: Origens do Totalitarismo
+livro_eichmann.jpg
+   Capa: Eichmann em Jerusalém
+livro_violencia.jpg
+   Capa: Sobre a Violência
+livro_condicao.jpg
+   Capa: A Condição Humana
+livro_vigiar.jpg
+   Capa: Vigiar e Punir
+livro_hs1.jpg
+   Capa: História da Sexualidade I
+livro_panoptico.jpg
+   Capa: O Panóptico
+livro_teoriajustica.jpg
+   Capa: Uma Teoria da Justiça
+livro_totalidade.jpg
+   Capa: Totalidade e Infinito
+livro_homosacer.jpg
+   Capa: Homo Sacer
+livro_necropolitica.jpg
+   Capa: Necropolítica
+livro_reconhecimento.jpg
+   Capa: Luta por Reconhecimento
+livro_pedagogia.jpg
+   Capa: Pedagogia do Oprimido
+livro_desentendimento.jpg
+   Capa: O Desentendimento
+livro_paradoxo.jpg
+   Capa: O Paradoxo Democrático
+panoptico_planta.jpg
+   Projeto do Panóptico, de Bentham, 1791
+   busca sugerida: Panopticon Bentham Reveley 1791 plan
+damiens.jpg
+   O suplício de Damiens, Paris, 1757 (gravura)
+   busca sugerida: Supplice de Damiens gravure 1757
+ulisses_vaso.jpg
+   Ulisses e as sereias, vaso grego, Museu Britânico
+   busca sugerida: Siren Vase British Museum Odysseus
+wannsee.jpg
+   Casa da Conferência de Wannsee, Berlim
+   busca sugerida: Haus der Wannsee-Konferenz
+eichmann_julgamento.jpg
+   Julgamento de Eichmann, Jerusalém, 1961
+   busca sugerida: Eichmann trial Jerusalem 1961 GPO
+presidio_modelo.jpg
+   Presídio Modelo, Cuba, prisão de planta circular
+   busca sugerida: Presidio Modelo Isla de la Juventud
+stf_cotas.jpg
+   Plenário do Supremo Tribunal Federal
+   busca sugerida: Plenário STF Agência Brasil
+sus_atendimento.jpg
+   Atendimento em unidade do SUS
+   busca sugerida: SUS atendimento Agência Brasil
+cotistas.jpg
+   Estudantes em universidade pública brasileira
+   busca sugerida: cotas universidade Agência Brasil
+operacao_acolhida.jpg
+   Operação Acolhida: acolhimento de migrantes em Roraima
+   busca sugerida: Operação Acolhida Pacaraima
+refugiados.jpg
+   Pessoas em situação de refúgio em um abrigo
+   busca sugerida: refugiados abrigo Agência Brasil
+kaunas.jpg
+   Kaunas, na Lituânia, cidade natal de Levinas
+   busca sugerida: Kaunas Lithuania old town
+guantanamo.jpg
+   Camp X-Ray, Guantánamo, 2002
+   busca sugerida: Camp X-Ray Guantanamo 2002 DoD
+terra_indigena.jpg
+   Povo indígena em defesa de seu território
+   busca sugerida: indígenas demarcação Agência Brasil
+quilombo.jpg
+   Comunidade quilombola
+   busca sugerida: comunidade quilombola Agência Brasil
+revolta_vacina.jpg
+   Revolta da Vacina, Rio de Janeiro, 1904
+   busca sugerida: Revolta da Vacina 1904 charge
+maria_penha.jpg
+   Sanção da Lei Maria da Penha, 2006
+   busca sugerida: Lei Maria da Penha sanção 2006
+freire_circulo.jpg
+   Círculo de cultura e alfabetização de adultos
+   busca sugerida: Paulo Freire alfabetização círculo de cultura
+casamento_stf.jpg
+   Casamento entre pessoas do mesmo sexo e o STF, 2011
+   busca sugerida: ADI 4277 STF união homoafetiva
+diretas_ja.jpg
+   Comício das Diretas Já, Vale do Anhangabaú, 1984
+   busca sugerida: Diretas Já comício Anhangabaú 1984
+junho_2013.jpg
+   Manifestações de junho de 2013
+   busca sugerida: Jornadas de Junho 2013 manifestação
+oito_janeiro.jpg
+   Praça dos Três Poderes após 8 de janeiro de 2023
+   busca sugerida: 8 de janeiro 2023 Praça dos Três Poderes
+marcha_washington.jpg
+   Marcha sobre Washington, 1963
+   busca sugerida: March on Washington 1963 National Archives
+camera_vigilancia.jpg
+   Câmeras de vigilância em espaço público
+   busca sugerida: CCTV cameras street
+frankfurt_grupo1.jpg
+   Horkheimer, Adorno, Habermas e Marcuse (nomes na imagem)
+frankfurt_grupo2.jpg
+   Pensadores ligados à Escola de Frankfurt (nomes na imagem)
+frankfurt_inst.jpg
+   Instituto de Pesquisa Social, Frankfurt
+bolo.jpg
+   Fatias de bolo
+universidade.jpg
+   Campus universitário
+stf_plenario.jpg
+   Supremo Tribunal Federal
+sus.jpg
+   Atendimento em posto de saúde do SUS
+cadeira.jpg
+   Acessibilidade: rampa para cadeira de rodas
+segregacao.jpg
+   Bebedouro segregado, EUA, anos 1950
+acolhida.jpg
+   Migrantes e refugiados em Roraima
+justica.jpg
+   Estátua da Justiça
+tribunal.jpg
+   Tribunal
+indigena.jpg
+   Povos indígenas em defesa de seus territórios
+vacina.jpg
+   Revolta da Vacina, 1904: saber oficial contra saber popular
+bandeira.jpg
+   Bandeira arco-íris
+alfabet.jpg
+   Alfabetização de adultos
+diretas.jpg
+   Comício das Diretas Já
+junho2013.jpg
+   Manifestações de junho de 2013
+ocupacao.jpg
+   Estudantes secundaristas ocupando escola
+oito.jpg
+   Praça dos Três Poderes, 8 de janeiro de 2023
+auschwitz.jpg
+   Auschwitz I, campo de concentração

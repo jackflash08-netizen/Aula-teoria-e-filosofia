@@ -1,0 +1,29 @@
+AULA: DEPOIS DA CRITICA (Rawls, Levinas, modernidade, identidade, democracia)
+Prof. Wellington Fernandes Vieira | Teoria e Filosofia Politica | USJT
+
+PUBLICAR (GitHub Pages): suba index.html e vote.html para a mesma pasta do repositorio.
+Abra o index.html pelo endereco publicado (https://usuario.github.io/pasta/index.html). O QR aparece sozinho na capa.
+Se abrir direto do computador (arquivo), a capa pede o endereco da pasta publicada; cole e o QR e gerado (fica salvo).
+Tambem funciona abrir com ?base=https://usuario.github.io/pasta/ no fim do endereco.
+
+TECLAS: seta direita/Espaco avanca uma etapa (o celular acompanha), esquerda volta, setas cima/baixo trocam de slide,
+F tela cheia, Q QR grande, I fotos, ? ajuda.
+
+ESTRUTURA: 26 slides, um conceito por slide. Cada etapa mostra: definicao, explicacao simples, exemplo 1, exemplo 2.
+O celular recebe um cartao para cada etapa, com explicacao mais completa, exemplos e imagens.
+
+IMAGENS JA EMBUTIDAS NO vote.html (celular):
+- Suas fotos: Levinas, Rawls, Arendt, Foucault e duas montagens de Frankfurt.
+- 22 imagens do Wikimedia Commons (licenca livre), com autor e licenca na legenda: planta do Panoptico, Wannsee, SUS,
+  UnB, Operacao Acolhida, Kaunas, Guantanamo, Revolta da Vacina, Terra Livre, quilombola, Diretas Ja, Junho de 2013,
+  estatua da Justica, bolo, Auschwitz, rampa de acessibilidade, bebedouro segregado, tribunal, Instituto de Pesquisa Social.
+Sem foto, o retrato vira ilustracao e o livro vira capa ilustrada original (nao e a capa oficial).
+Para trocar ou acrescentar imagens: botao "Fotos" no topo (aceita varias de uma vez, pelo nome da chave em IMAGENS.txt).
+
+PENDENTE: imagem do 8 de janeiro (o Wikimedia bloqueou o download) e do plenario do STF. Pelo botao Fotos, chaves oito e stf_plenario.
+Retratos dos demais autores (Agamben, Mbembe, Quijano, Boaventura, Honneth, Fraser, Crenshaw, Gonzalez, Freire, Mouffe, Ranciere)
+aparecem como ilustracao ate voce enviar as fotos.
+
+CONFIRA ANTES DA AULA (escritos de memoria): numeros e datas de leis (12.711/2012, 9.474/1997, 13.445/2017, 10.639/2003, EC 72/2013),
+ADPF 186 e ADI 4277/2011, DeGraffenreid (1976), Operacao Acolhida (2018), Angicos (1963, 40 horas), debate Habermas-Rawls (1995),
+edicoes das referencias do ultimo slide.
